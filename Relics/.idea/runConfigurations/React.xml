@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="React" type="Java Scratch" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="React" />
+    <module name="Relics" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
